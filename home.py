@@ -131,6 +131,9 @@ def main():
                 st.success("Table record deleted successfully!!!")
         read_posts()
 
+    else:
+        pass
+
 
 if __name__ == "__main__":
     main()
